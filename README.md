@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Joe 👋
+Year 3 Computer Science (Real-Time Interactive Simulation) student at SIT–DigiPen, looking for a game programmer internship.
 
-<!--
-**wlai37/wlai37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engines:** Unreal Engine · Unity · Custom C++ engine
+**Languages:** C++ · C · GLSL
+**Tools:** Visual Studio · Git · CMake · Jira · Linux
 
-Here are some ideas to get you started:
+### Projects
+- **Ember Escape** – physics (spatial grid, 1,000-object stress test) and level editor with undo/redo, on a team-built C++ engine
+- **Driving Simulator** – save/load serialization and demerit points system in Unreal Engine (team of 8)
+- **A\* Pathfinding** – indexed binary heap, ~5.0 ms vs 8.6 ms reference
+- **Inferno Descend** – solo C game, physics and shooting written from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 laijoey333@gmail.com · [LinkedIn](https://www.linkedin.com/in/lai-wei-zhou-joe)
