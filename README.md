@@ -2,7 +2,9 @@
 Year 3 Computer Science (Real-Time Interactive Simulation) student at SIT–DigiPen, looking for a game programmer internship.
 
 **Engines:** Unreal Engine · Unity · Custom C++ engine
+
 **Languages:** C++ · C · GLSL
+
 **Tools:** Visual Studio · Git · CMake · Jira · Linux
 
 ### Projects
